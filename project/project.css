@@ -111,6 +111,10 @@ nav .menu a{
     font-size: 18px;
     line-height: 30px;
     margin-bottom: 30px;
+    color: #757575;
+    margin-top: 30px;
+
+
 }
 #about .section-about .about-info{
     display: flex;
@@ -118,3 +122,59 @@ nav .menu a{
     align-items: center;
     justify-content:space-around;
 }
+#skill{
+    padding-top: 130px;
+}
+#skill .about-me{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+}
+.about-me h1{
+    font-size: 35;
+    font-weight: bold;
+    color: black;
+}
+.about-me p{
+    font-size: 18px;
+    color: #757575;
+    padding-top: 30px;
+    line-height: 30px;
+    padding: 50px;
+}
+#skill .class-contain{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+
+} 
+#skill .skill-box{
+    display: flex;
+    gap: 24px;
+}
+.card{
+    padding: 30px;
+    max-width: 267px;
+    box-shadow: 0 6px 50px 0 #cec9c9;
+
+    
+}
+.card img{
+    max-width: 44px;
+    margin-bottom: 30px;
+
+}
+.card h4{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+}
+.card p{
+    font-size: 16px;
+    color: #757575;
+    line-height: 28px;
+
+}
+
