@@ -39,6 +39,9 @@ header{
 
     
 }
+#banner .banner-image img{
+    vertical-align: middle;
+}
 nav{
     width: 71%;
     max-width: 1140px;
